@@ -1,4 +1,4 @@
-Hi! I'm Jennifer Taylor. I graduated from East Carolina University with a degree in Business Management and a concetration of Entrepreneurship and Small Business.
+Hi! I'm Jennifer Taylor. I graduated from East Carolina University with a degree in Business Management and a concetration in Entrepreneurship and Small Business.
 
 I've always had an interest in data and considered myself an analytical individual, so I've decided to switch gears and try to get into data analytics!
 
