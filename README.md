@@ -1,10 +1,19 @@
-Hi! I'm Jennifer Taylor. I graduated from East Carolina University with a degree in Business Management and a concetration in Entrepreneurship and Small Business.
+Hi! I'm Jennifer, an aspiring data analyst! 
 
-I've always had an interest in data and considered myself an analytical individual, so I've decided to switch gears and try to get into data analytics!
+Skills I've learned and developed:
+  - Querying data to make insights
+  - Visualization & storytelling
 
-I'm self taught in the coding languages SQL, R, and Python, as well as in the data visualization tools Tableau and Power BI.
+Tools I use:
+  - SQL
+  - Power BI
+  - Python
+  - Excel
 
-Although I'm self taught, I'm confident in the proficiency of my skills and I'm ready to showcase them! :)
+Projects:
+
+Come connect or say hi!
+LinkedIn: linkedin.com/in/jennifertaylor99 
 
 <!---
 jennifer-taylor/jennifer-taylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
